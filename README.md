@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/SametCeliks">
-    <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile+Views&color=blue" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=SametCeliks&label=Profile+Views&color=blue" alt="Profile Views" />
   </a>
   <a href="https://www.linkedin.com/in/[your-linkedin]/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
