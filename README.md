@@ -43,7 +43,7 @@
 ### 🔥 **Featured Projects**
 - 🏷 **[BarberPlus](https://github.com/SametCeliks/barberplus)** - A barber management app  
 - 📅 **[Duty Tracker](https://github.com/SaöetCeliks/duty-tracker)** - Track and manage shifts easily  
-- 🌤 **[WeatherApplication](https://github.com/SametCeliks/weather-app)** - Real-time weather updates  
+- 🌤 **[WeatherApplication](https://github.com/SametCeliks/WeatherApplication)** - Real-time weather updates  
 
 ---
 
