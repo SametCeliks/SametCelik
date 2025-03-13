@@ -49,7 +49,7 @@
 
 ### 📌 **Let's Connect!**
 <p align="center">
-  <a href="[https://www.linkedin.com/in/[your-linkedin]/](https://www.linkedin.com/in/samet%C3%A7elikk/)">
+  <a href="[[https://www.linkedin.com/in/[your-linkedin]/](https://www.linkedin.com/in/samet%C3%A7elikk/)](https://www.linkedin.com/in/samet%C3%A7elikk/)">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
 
