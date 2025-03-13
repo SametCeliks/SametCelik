@@ -6,7 +6,7 @@
   <a href="https://github.com/SametCeliks">
     <img src="https://komarev.com/ghpvc/?username=SametCeliks&label=Profile+Views&color=blue" alt="Profile Views" />
   </a>
-  <a href="https://www.linkedin.com/in/[your-linkedin]/">
+  <a href="https://www.linkedin.com/in/samet%C3%A7elikk/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
