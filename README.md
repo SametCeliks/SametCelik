@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm [Your Name] 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/[your-github-username]">
+  <a href="https://github.com/SametCeliks">
     <img src="https://komarev.com/ghpvc/?username=[your-github-username]&label=Profile+Views&color=blue" alt="Profile Views" />
   </a>
   <a href="https://www.linkedin.com/in/[your-linkedin]/">
