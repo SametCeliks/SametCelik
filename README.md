@@ -18,7 +18,7 @@
 - 💡 Experience in **Kotlin**, **Jetpack Compose**, **Firebase**, and **MVVM**  
 - 🔨 Worked on **Barber (Kuaför) App, Duty Tracker (Nöbet), and Weather App (Hava Durumu)**  
 - 📚 Always learning new technologies and improving my skills  
-- 📬 Reach me via **[Your Email]** or **[Your LinkedIn]**  
+- 📬 Reach me via **samet4343celikk@gmail.com** or **https://www.linkedin.com/in/samet%C3%A7elikk/**  
 
 ---
 
