@@ -32,30 +32,28 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SametCeliks&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-github-username]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SametCeliks&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🔥 **Featured Projects**
-- 🏷 **[BarberPlus](https://github.com/[your-github-username]/barberplus)** - A barber management app  
-- 📅 **[Duty Tracker](https://github.com/[your-github-username]/duty-tracker)** - Track and manage shifts easily  
-- 🌤 **[Weather App](https://github.com/[your-github-username]/weather-app)** - Real-time weather updates  
+- 🏷 **[BarberPlus](https://github.com/SametCeliks/barberplus)** - A barber management app  
+- 📅 **[Duty Tracker](https://github.com/SaöetCeliks/duty-tracker)** - Track and manage shifts easily  
+- 🌤 **[Weather App](https://github.com/SametCeliks/weather-app)** - Real-time weather updates  
 
 ---
 
 ### 📌 **Let's Connect!**
 <p align="center">
-  <a href="https://www.linkedin.com/in/[your-linkedin]/">
+  <a href="[https://www.linkedin.com/in/[your-linkedin]/](https://www.linkedin.com/in/samet%C3%A7elikk/)">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/[your-twitter]/">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:[your-email]">
+
+  <a href="mailto:samet4343celikk@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
